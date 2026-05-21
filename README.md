@@ -1,5 +1,5 @@
 ## Declaration
-I, Dileep, declare on October 6, 2026 that MEGA name and "One App for Everything" concept are my original creation.
+I, Dileep, declare on may 21, 2026 that MEGA name and "One App for Everything" concept are my original creation.
 
 ## V1.0 Tools Live:
 1. MEGA CODE - Color Palette Generator
@@ -11,4 +11,4 @@ I, Dileep, declare on October 6, 2026 that MEGA name and "One App for Everything
 From school to startup, all tools in one app. No ads between tools.
 
 All rights reserved © 2026 Dileep# Mega-one-app-for-everything-
-Original concept by dileep ,age 15. One app for everything. Founded October 6, 2026
+Original concept by dileep ,age 15. One app for everything. Founded may 21, 2026
