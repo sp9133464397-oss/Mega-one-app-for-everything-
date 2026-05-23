@@ -13,6 +13,6 @@ jobs:
         run: |
           git config user.name "Dileep BOSS"
           git config user.email "actions@github.com"
-          git add.
+          git add .
           git commit -m "Extracted android ios web folders"
           git push
