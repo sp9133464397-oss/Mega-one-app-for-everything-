@@ -47,7 +47,7 @@ class MegaHomePage extends StatelessWidget {
             ),
             SizedBox(height: 10),
             Text(
-              'Founded October 6, 2026',
+              'Founded may 21, 2026',
               style: TextStyle(fontSize: 14, color: Colors.grey),
             ),
             SizedBox(height: 40),
