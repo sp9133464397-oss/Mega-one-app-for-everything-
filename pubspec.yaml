@@ -1,0 +1,17 @@
+name: mega_real_app
+description: BOSS DILEEP Mega App - One App For Everything
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.2.2
+  image_picker: ^1.0.7
+  permission_handler: ^11.3.1
+  http: ^1.1.2
+
+flutter:
+  uses-material-design: true
